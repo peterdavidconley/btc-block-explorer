@@ -1,3 +1,63 @@
+## _Project Name_
+
+Lorem ipsum.
+
+## Motivation
+
+Lorem ipsum.
+
+## Design Specs
+
+Here is a link to a design mockup
+
+## Tech/framework used
+
+React
+
+## Features
+
+Lorem ipsum.
+
+## Project Installation
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+## API Reference
+
+#### Front End Deployment
+
+()
+
+#### Backend API
+
+()
+
+## How to Use
+
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+
+## Contribute
+
+Contribute to this project by forking and creating a portfolio piece for yourself.
+
+## License
+
+©MIT
+
+## Contributors
+
+[Peter Conley](https://github.com/peterdavidconley)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
