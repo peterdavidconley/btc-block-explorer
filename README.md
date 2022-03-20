@@ -1,10 +1,10 @@
-## _Project Name_
+## BTC Block Explorer
 
-Lorem ipsum.
+Create an application that retrieves bitcoin block data by search result.
 
 ## Motivation
 
-Lorem ipsum.
+This project is meant to be a portfolio piece for developers interest in getting into the bitcoin space. By building a simple block explorer you are familiarizing your self with the bitcoin blockchain.
 
 ## Design Specs
 
