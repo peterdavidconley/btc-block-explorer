@@ -8,7 +8,7 @@ This project is meant to be a portfolio piece for developers interest in getting
 
 ## Design Specs
 
-Here is a link to a design mockup
+Here is a link to a design mockup < insert link >
 
 ## Tech/framework used
 
@@ -42,9 +42,6 @@ You may also see any lint errors in the console.
 
 ## How to Use
 
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 
 ## Contribute
 
